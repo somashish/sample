@@ -1,0 +1,11 @@
+cd Desktop/repoName
+
+change infiles..
+
+run -> git status
+
+run -> git add .
+
+run -> git commit -m "message"
+
+run -> git push

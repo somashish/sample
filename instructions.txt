@@ -1,6 +1,6 @@
 cd Desktop/repoName
 
-change infiles..
+change in files..
 
 run -> git status
 
